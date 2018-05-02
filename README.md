@@ -1,5 +1,5 @@
 # Yara-Rules
-# Yara rule to detect GPGQuerty ransomware 
+# Yara rule to detect GPGQuerty ransomware !
 rule GPGQwerty : GPGQwerty
 {
 	strings:
